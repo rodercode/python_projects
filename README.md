@@ -1,1 +1,1 @@
-some basic Python project I have been working on
+Quiz Game to practice using OOP in python
